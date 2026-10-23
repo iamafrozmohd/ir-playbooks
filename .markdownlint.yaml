@@ -1,0 +1,7 @@
+# Markdown style rules (markdownlint). Long lines are fine in prose and tables,
+# bold-only lines are used as sub-labels in the report template, and table pipe
+# spacing is left to the author.
+default: true
+MD013: false
+MD036: false
+MD060: false
